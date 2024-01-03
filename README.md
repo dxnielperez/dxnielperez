@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50">Hello I'm Daniel</h1>
+<h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/WUrud1ZSpw8wqK4NN3/giphy.gif" width="50">Hello I'm Daniel</h1>
 <p align="left">
   <a href="https://github.com/Daniel-PerezF">
     <img src="https://komarev.com/ghpvc/?username=Daniel-PerezF" alt="page views">
@@ -17,7 +17,7 @@
 - :dart: I'm currently working on my personal website.
 ---
 
-### <img src="https://media.giphy.com/media/WUrud1ZSpw8wqK4NN3/giphy.gif" width="50"> A little more about me...
+###<img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50">A little more about me...
 
 
 
