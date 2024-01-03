@@ -6,7 +6,8 @@
   <a href="https://github.com/Daniel-PerezF?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Daniel-PerezF?color=green&logo=github">
   </a>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-f-perez) 
+  <a href="https://linkedin.com/in/daniel-f-perez">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -22,13 +23,9 @@
 
 ```ruby
 CONST DANIEL = {
-  pronouns: "He" | "him" | "They" | "them",
-  backend: ["Your Backend Technologies"],
   frontend: ["Your Frontend Technologies"],
-  database: ["Your Database Technologies"],
-  "cloud-server": ["Your Cloud Service Providers"],
-  architecture: ["Your Architecture Preferences"],
-  challenge: "I am currently working on [Your Current Project]. It's [Project Description]."
+  backend: ["Your Backend Technologies"],
+  deployment: ["Your Cloud Service Providers"],
 }
 ```
 
