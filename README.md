@@ -15,7 +15,6 @@
 - :house: I'm currently living at Orange County, California.
 - :computer: Software Engineer.
 - :dart: I'm currently working on my personal website.
-- 
 ---
 
 ### <img src="https://media.giphy.com/media/WUrud1ZSpw8wqK4NN3/giphy.gif" width="50"> A little more about me...
