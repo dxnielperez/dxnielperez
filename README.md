@@ -10,13 +10,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+---
 <a href="#daniel-perezf-title">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-perezf&theme=slateorange&hide_border=true" alt="Daniel-PerezF" align="right" />
 </a>
 <a href="#daniel-perezf-title">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-perezf&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Daniel-PerezF" align="right" >
 </a>
-
 ---
 - :house: I'm currently living at Orange County, California.
 - :computer: Software Engineer.
