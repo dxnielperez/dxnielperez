@@ -11,6 +11,8 @@
   </a>
 </p>
 
+---
+
 <a href="#daniel-perezf-title">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-perezf&theme=slateorange&hide_border=true" alt="Daniel-PerezF" align="right" />
 </a>
