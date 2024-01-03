@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Daniel Perez</h1>
+<h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/Mh501EAiJCyHLNrmkS/giphy.gif" width="50" >Hello there! I'm Daniel Perez</h1>
 <p align="left">
   <a href="https://github.com/Daniel-PerezF">
     <img src="https://komarev.com/ghpvc/?username=Daniel-PerezF" alt="page views">
