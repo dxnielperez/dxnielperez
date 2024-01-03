@@ -12,7 +12,7 @@
 </p>
 
 <a href="#daniel-perezf-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-PerezF&show_icons=true" alt="Daniel-PerezF" align="right" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-perezf&theme=slateorange&hide_border=true" alt="Daniel-PerezF" align="right" />
 </a>
 
 - :house: I'm currently living at Orange County, California.
@@ -36,3 +36,4 @@ CONST DANIEL = {
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
   deployment: ["AWS", "GH-Pages"],
 }
+```
