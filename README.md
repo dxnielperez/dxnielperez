@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
----
 <a href="#daniel-perezf-title">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-perezf&theme=slateorange&hide_border=true" alt="Daniel-PerezF" align="right" />
 </a>
@@ -19,7 +18,6 @@
 </a>
 
 ---
-
 - :house: I'm currently living at Orange County, California.
 - :computer: Software Engineer.
 - :dart: I'm currently working on my personal website.
