@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
+---
 <a href="#daniel-perezf-title">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-perezf&theme=slateorange&hide_border=true" alt="Daniel-PerezF" align="right" />
 </a>
@@ -34,7 +34,6 @@
 
 
 
----
 ```ruby
 CONST DANIEL = {
  frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "CSS", "Tailwind"],
