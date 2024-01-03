@@ -27,7 +27,6 @@ CONST DANIEL = {
   deployment: ["AWS", "GH-Pages"],
 }
 ```
----
-[LinkedIn](https://www.linkedin.com/in/daniel-f-perez/)
-[Your Website](danielperez.io)
+---[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-f-perez/)
+[🌐](danielperez.io)
 
