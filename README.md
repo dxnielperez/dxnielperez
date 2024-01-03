@@ -6,8 +6,7 @@
   <a href="https://github.com/Daniel-PerezF?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/Daniel-PerezF?color=green&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-f-perez) 
   </a>
 </p>
 
@@ -18,7 +17,7 @@
 - :house: I'm currently living at Orange County, California.
 - :computer: Software Engineer.
 - :dart: I'm currently working on my personal website.
-
+---
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```ruby
@@ -32,3 +31,5 @@ CONST DANIEL = {
   challenge: "I am currently working on [Your Current Project]. It's [Project Description]."
 }
 ```
+
+
