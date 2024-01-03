@@ -1,9 +1,9 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Daniel</h1>
 <p align="left">
- <div>[![](https://visitcount.itsvg.in/api?id=daniel-perezf&icon=0&color=0)](https://visitcount.itsvg.in)</div>
   <a href="https://github.com/Daniel-PerezF">
     <img alt="Followers" src="https://img.shields.io/github/followers/Daniel-PerezF?label=Followers&style=social">
   </a>
+ <div>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-f-perez) </div>
 </p>
 
 <div align="left">
@@ -25,16 +25,7 @@ CONST DANIEL = {
 }
 
 ```
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-f-perez) 
 🌐 [danielperez.io](danielperez.io)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-f-perez) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=daniel-perezf&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=daniel-perezf&theme=slateorange&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-perezf&theme=slateorange&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
