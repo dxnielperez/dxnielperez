@@ -12,7 +12,7 @@
 </p>
 
 
-- :house: I'm currently living at Orange County, California.
+- :house: I'm currently living in Orange County, California.
 - :computer: Software Engineer.
 - :dart: I'm currently working on my personal website.
 ---
