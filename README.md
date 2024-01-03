@@ -23,9 +23,9 @@
 
 ```ruby
 CONST DANIEL = {
-  frontend: ["Your Frontend Technologies"],
-  backend: ["Your Backend Technologies"],
-  deployment: ["Your Cloud Service Providers"],
+ frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "CSS", "Tailwind"],
+  backend: ["Expressjs", "Nodejs", "PostreSQL"],
+  deployment: ["AWS", "GH-Pages"],
 }
 ```
 
