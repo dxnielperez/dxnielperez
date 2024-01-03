@@ -23,7 +23,7 @@
 
 
 
-```ruby
+```javascript
 const DANIEL = {
  frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "CSS", "Tailwind"],
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
