@@ -17,7 +17,7 @@
 - :dart: I'm currently working on my personal website.
 ---
 
-###<img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50">A little more about me...
+### <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50">A little more about me...
 
 
 
