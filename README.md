@@ -9,7 +9,7 @@
   <a href="https://linkedin.com/in/daniel-f-perez">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="danielperez.io></a>
+  <a href="danielperez.io"></a>
 </p>
 
 
