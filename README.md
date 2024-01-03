@@ -25,6 +25,8 @@
 
 
 
+
+  
 ```ruby
 CONST DANIEL = {
  frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "CSS", "Tailwind"],
