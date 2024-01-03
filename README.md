@@ -26,9 +26,8 @@ CONST DANIEL = {
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
   deployment: ["AWS", "GH-Pages"],
 }
-
+```
+---
 [LinkedIn](https://www.linkedin.com/in/daniel-f-perez/)
 [Your Website](danielperez.io)
 
-
----
