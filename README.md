@@ -8,15 +8,15 @@
   </a>
 </p>
 
-<div>
+<div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Daniel-PerezF&show_icons=true&count_private=true&hide=contribs,prs&theme=radical">
   </a>
+  
+  - :house: Living in Orange County, California.
+  - :computer: Software Engineer.
+  - :dart: I'm currently working on my personal portfolio website.
 </div>
-
-- :house: Living in Orange County, California.
-- :computer: Software Engineer.
-- :dart: I'm currently working on my personal portfolio website.
 
 ### A little more about me...  
 
@@ -26,7 +26,8 @@ CONST DANIEL = {
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
   deployment: ["AWS", "GH-Pages"],
 }
+
 ```
----[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-f-perez/)
-[🌐](danielperez.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/daniel-f-perez/)
+[danielperez.io](danielperez.io)
 
