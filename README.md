@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Daniel</h1>
 <p align="left">
- [![](https://visitcount.itsvg.in/api?id=daniel-perezf&icon=0&color=0)](https://visitcount.itsvg.in)
+ [!(https://visitcount.itsvg.in/api?id=daniel-perezf&icon=0&color=0)](https://visitcount.itsvg.in)
   <a href="https://github.com/Daniel-PerezF">
     <img alt="Followers" src="https://img.shields.io/github/followers/Daniel-PerezF?label=Followers&style=social">
   </a>
@@ -28,8 +28,3 @@ CONST DANIEL = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-f-perez) 
 🌐 [danielperez.io](danielperez.io)
 
-
-
-# 📊 GitHub Stats:
-
----
