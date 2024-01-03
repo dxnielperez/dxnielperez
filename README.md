@@ -12,10 +12,10 @@
 </p>
 
 
-- :house: Currently based in Orange County, California.
+- :house: Based in Orange County, California.
 - :computer: Software Engineer.
 - :dart: Currently working on my personal website.
-- 💬 Talk to me about Anime, Memes, Movies, MMA, Film Photography.
+- 💬 Talk to me about Anime, Film Photography, Memes, MMA, Movies, Vinyl Records.
 ---
 
 ### <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50"> A little more about me...
