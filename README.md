@@ -27,6 +27,3 @@ CONST DANIEL = {
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
   deployment: ["AWS", "GH-Pages"],
 }
-```
-
-
