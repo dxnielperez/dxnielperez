@@ -1,5 +1,6 @@
-![image]([https://github.com/Daniel-PerezF/Daniel-PerezF/assets/127264112/2d704c8c-8538-4e1c-9176-0f284b040560](https://wallpapers.com/images/high/information-technology-1920-x-1050-background-qxynabmxuv6jxnis.webp))# 👋
-){:width="600px" height="200px"}
+![Banner](https://wallpapers.com/images/hd/information-technology-1920-x-1050-background-qxynabmxuv6jxnis.jpg){:width="600px" height="200px"}
+#👋
+
 💫 About Me:<br>My name is Daniel, a software developer with a passion for crafting seamless and visually appealing user experiences. My journey into the world of software development began at LearningFuze, where I honed my skills in both front-end and back-end technologies.<br><br>📚 Always Learning<br>I have a strong appetite for learning and staying current with the ever-evolving tech landscape. Whether it's exploring new JavaScript frameworks, mastering backend technologies, or adopting best practices in software architecture, I'm committed to continuous growth.<br><br>🌱 Goals<br>My goal is to contribute meaningfully to the tech community, collaborate on exciting projects, and evolve into a well-rounded software developer. I'm excited about the endless possibilities in the tech field and look forward to the journey ahead. Always seeking opportunities to apply and expand my skills, so feel free to reach out to me on Linkedin if you're interested in connecting!<br><br>🤝 Let's Connect<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-f-perez) 
  <br> 
 
