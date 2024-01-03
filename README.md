@@ -19,7 +19,7 @@
 - :computer: Software Engineer.
 - :dart: I'm currently working on my personal website.
 ---
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/RhTcDlELS9R5THYeH5/giphy.gif" width="50"> A little more about me...
 
 
 
