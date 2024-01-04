@@ -1,9 +1,9 @@
 <h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/xUA7b5PIAKwmSZiTxC/giphy.gif" width="50">Hello I'm Daniel</h1>
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/daniel-f-perez">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <br>
+ 
   <a href="https://www.danielperez.io">danielperez.io</a>
 </p>
 
