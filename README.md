@@ -3,6 +3,7 @@
   <a href="https://linkedin.com/in/daniel-f-perez" align="left">
    Linkedin
   </a>  
+  <br>
   <a href="https://www.danielperez.io">danielperez.io</a>
 </p>
 
