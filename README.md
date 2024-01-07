@@ -11,7 +11,6 @@
 - :house: Based in Orange County, California.
 - :computer: Software Engineer.
 - :dart: Currently working on my personal website.
-- 💬 Talk to me about Anime, Film, Memes, MMA, Movies, Vinyl Records.
 ---
 
 ### <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50"> A little more about me...
