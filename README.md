@@ -10,12 +10,12 @@
 
 - :house: Based in Orange County, California.
 - :computer: Software Engineer.
-- :dart: Currently working on my personal website.
+- :dart: Currently working on my personal portfolio website.
 ---
 
 ### <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50"> A little more about me...
  
----
+
 
 
 ```JavaScript
