@@ -10,7 +10,7 @@
 
 - :house: Based in Orange County, California.
 - :computer: Software Engineer.
-- :dart: Currently learning nextjs.
+- :dart: Currently learning NextJs.
 ---
 
 ### <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50"> A little more about me...
