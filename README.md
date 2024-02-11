@@ -16,10 +16,10 @@
 
 
 ```JavaScript
-const DANIEL = {
+const daniel = {
   frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Nextjs", "CSS", "Tailwind"],
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
   deployment: ["AWS", "GH-Pages", "Vercel"],
   design: ["Figma", "Canva"],
-}
+};
 ```
