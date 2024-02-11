@@ -24,7 +24,7 @@
 const DANIEL = {
   frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Nextjs", "CSS", "Tailwind"],
   backend: ["Expressjs", "Nodejs", "PostreSQL"],
-  deployment: ["AWS", "GH-Pages"],
+  deployment: ["AWS", "GH-Pages", "Vercel"],
   design: ["Figma", "Canva"],
 }
 ```
