@@ -4,7 +4,7 @@
 - :computer: Full Stack Software Developer
 - :dart: Currently learning NextJs
 
- - 🌐 Check out my personal website <a href="https://www.danielperez.io">danielperez.io</a>
+ - 🌐 Check out my portfolio website <a href="https://www.danielperez.io">danielperez.io</a>
 
 ---
 
