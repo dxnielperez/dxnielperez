@@ -5,7 +5,6 @@
 - :dart: Currently building an alternative version of my portfolio website
 
  - 🌐 Check out my portfolio website <a href="https://www.danielperez.io">danielperez.io</a>
-
 ---
 
 ### <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50"> A little more about me...
