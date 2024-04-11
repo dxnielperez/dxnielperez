@@ -2,9 +2,9 @@
 
 - :house: Based in Orange County, California
 - :computer: Full Stack Web Developer
-- :dart: Currently building an alternative version of my portfolio website
+- :dart: Currently working on furthering my understanding of NextJs
 
- - 🌐 Check out my portfolio website <a href="https://www.danielperez.io">danielperez.io</a>
+ - 🌐 Check out my portfolio website <a href="https://www.danielperez.io">dxniel.dev</a>
 ---
 
 ### <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50"> A little more about me...
