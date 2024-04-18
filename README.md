@@ -3,7 +3,7 @@
 - :house: Based in Orange County, CA
 - :computer: Full Stack Developer
 
- - 🌐 Check out my portfolio website <a href="https://www.danielperez.io">dxniel.dev</a>
+ - 🌐 Check out my portfolio website <a href="https://www.dxniel.dev">dxniel.dev</a>
 ---
 
 ### <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50"> A little more about me...
