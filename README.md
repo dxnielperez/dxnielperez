@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/xUA7b5PIAKwmSZiTxC/giphy.gif" width="50">Hello, I'm Daniel!</h1>
 
-- :house: Based in Orange County, California
+- :house: Based in Orange County, CA
 - :computer: Full Stack Developer
 
  - 🌐 Check out my portfolio website <a href="https://www.danielperez.io">dxniel.dev</a>
