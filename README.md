@@ -14,7 +14,7 @@
 
 
 ```JavaScript
-const daniel = {
+const Daniel = {
   frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Nextjs", "CSS", "Tailwind"],
   backend: ["Expressjs", "Nodejs", "PostreSQL", "MongoDB"],
   deployment: ["AWS", "GH-Pages", "Vercel"],
