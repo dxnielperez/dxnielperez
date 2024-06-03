@@ -12,7 +12,6 @@
 
 
 
-
 ```JavaScript
 const Daniel = {
   frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Nextjs", "CSS", "Tailwind"],
