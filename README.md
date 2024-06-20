@@ -3,7 +3,7 @@
 - :house: Orange County, CA
 - :computer: Full Stack Developer
 
- - 🌐 Check out my website <a href="https://www.dxniel.dev">dxniel.dev</a>
+ - 🌐 <a href="https://www.dxniel.dev">dxniel.dev</a>
 ---
 
 ### <img src="https://media.giphy.com/media/BmzqC8YEtarJK/giphy.gif" width="50"> A little more about me...
