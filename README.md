@@ -2,7 +2,6 @@
 
 - :house: Orange County, CA
 - :computer: Full Stack Developer
-
  - 🌐 <a href="https://www.dxniel.dev">www.dxniel.dev</a>
 ---
 
