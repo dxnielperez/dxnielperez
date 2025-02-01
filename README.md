@@ -2,7 +2,7 @@
 
 - :house: Southern California 
 - :computer: Web Developer
- - 🌐 <a href="https://www.dxniel.dev" target="_blank" rel="noopener noreferrer">www.dxniel.dev</a>
+ - 🌐 <a href="https://www.dxniel.dev" >www.dxniel.dev</a>
 ---
 
 ### A little more about me...
