@@ -3,4 +3,3 @@
 - :house: California 
 - :computer: Web Developer
  - 🌐 <a href="https://www.dxniel.dev" >www.dxniel.dev</a>
----
