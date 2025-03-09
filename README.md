@@ -13,9 +13,7 @@
 
 ```JavaScript
 const Daniel = {
-  frontend: ["HTML", "JavaScript", "TypeScript", "Reactjs", "Nextjs", "CSS", "Tailwind"],
-  backend: ["Expressjs", "Nodejs", "PostreSQL", "MongoDB"],
-  deployment: ["AWS", "GH-Pages", "Vercel"],
-  design: ["Figma", "Canva"],
+  frontend: ["HTML", "JavaScript", "TypeScript", "React", "Next", "CSS", "Tailwind"],
+  backend: ["Express", "Node", "PostreSQL", "MongoDB"],
 };
 ```
